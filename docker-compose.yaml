@@ -1,6 +1,6 @@
 version: "3.3"
 services:
   app:
-    image: mixy/nginx:latest
+    image: thunth15/nginx:latest
     ports:
       - "80:80"
